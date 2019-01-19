@@ -17,7 +17,7 @@ A PRESENTATION ON OWASP: THE MOST CRITICAL WEB APPLICATION SECURITY RISKS.
 
 
 ## ARCHITECTURE
-(https://docs.google.com/presentation/d/1bRqY93IYm9_rMnPDMqPIDKyj89S_F-ybB4leCFL04Gk/edit?usp=sharing "Presentation Slides")
+[](https://docs.google.com/presentation/d/1bRqY93IYm9_rMnPDMqPIDKyj89S_F-ybB4leCFL04Gk/edit?usp=sharing "Presentation Slides")
 
 
 ## API
